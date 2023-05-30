@@ -1,7 +1,9 @@
 Nom de la ressource : SlashReport
 Auteur : DeWebNer
 Version : 1.0.0
-Description : Cette ressource permet aux joueurs d'utiliser la commande /report pour signaler des problèmes ou des comportements inappropriés. 
+
+Description : Cette ressource permet aux joueurs d'utiliser la commande /report 
+pour signaler des problèmes ou des comportements inappropriés. 
 Seuls les administrateurs et modérateurs peuvent lire les rapports.
 
 Instructions d'installation :
