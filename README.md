@@ -1,5 +1,7 @@
 Nom de la ressource : SlashReport
+
 Auteur : DeWebNer
+
 Version : 1.0.0
 
 Description : Cette ressource permet aux joueurs d'utiliser la commande /report 
