@@ -1,8 +1,5 @@
-![https://raw.githubusercontent.com/dewebner/SlashReport/main/SlashReport.PNG]
-![alt text]([https://github.com/dewebner/SlashReport/blob/main/SlashReport.PNG](https://raw.githubusercontent.com/dewebner/SlashReport/main/SlashReport.PNG?raw=true)
-[What is this](SlashReport.PNG)
 
-<img src="https://raw.githubusercontent.com/dewebner/SlashReport/main/SlashReport.PNG" width="128"/>
+<img src="https://raw.githubusercontent.com/dewebner/SlashReport/main/SlashReport.PNG"/>
 
 Nom de la ressource : SlashReport
 
