@@ -1,3 +1,17 @@
+fx_version 'cerulean'
+game 'gta5'
+
+author 'DeWebNer'
+description 'ajout une simple commande /report'
+version '1.0.0'
+
+server_scripts {
+    'server/main.lua',
+    'report.lua'
+}
+
+
+
 -- Fonction pour vérifier si un joueur est administrateur ou modérateur
 local function isAdminOrModerator(source)
     -- Ici, vous pouvez ajouter votre propre logique pour vérifier si un joueur est administrateur ou modérateur
