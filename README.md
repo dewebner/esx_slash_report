@@ -1,4 +1,4 @@
-![Capture]([https://github.com/dewebner/SlashReport/[branch]/campture.png](https://github.com/dewebner/SlashReport/blob/main/SlashReport.PNG?raw=true)
+![alt text]([http://url/to/img.png](https://github.com/dewebner/SlashReport/blob/main/SlashReport.PNG?raw=true))
 
 Nom de la ressource : SlashReport
 
