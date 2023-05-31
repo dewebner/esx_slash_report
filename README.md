@@ -14,8 +14,8 @@ Seuls les administrateurs et modérateurs peuvent lire les rapports.
 Instructions d'installation :
 
 1. Copiez le dossier de la ressource dans le répertoire "resources" de votre serveur FiveM.
-2. Ajoutez "start SlashReport" à votre fichier "server.cfg" 
-3. Redémarrez votre serveur FiveM.
+2. Ajoutez "start esx_slash_report" à votre fichier "server.cfg" 
+4. Redémarrez votre serveur FiveM.
 
 Structure des fichiers :
 
